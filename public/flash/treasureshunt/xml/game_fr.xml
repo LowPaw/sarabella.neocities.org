@@ -8,18 +8,18 @@
 
 	<turbobtn>Play Turbo</turbobtn>
 
-	<pauseheading>Your Game is Paused</pauseheading>
+	<pauseheading>Ton jeu est en pause</pauseheading>
 	<pause2>Close this window to resume play.</pause2>
 
 	<how_to_play_btn>Règles du jeu</how_to_play_btn>
 
-	<play_again_btn>Play Again</play_again_btn>
+	<play_again_btn>Rejouer</play_again_btn>
 
 	<!-- intro text goes here -->
 	<intro>Intro From XML!</intro>
 
 	<!-- how to play title goes here -->
-	<how_to_play_title>How To Play</how_to_play_title>
+	<how_to_play_title>Comment jouer</how_to_play_title>
 
 	<!-- how to play text goes here -->
 	<how_to_play2>The further your mouse is from Treasure, the faster you'll move.
